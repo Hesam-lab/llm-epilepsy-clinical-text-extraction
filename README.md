@@ -4,7 +4,7 @@ A lightweight Python project for extracting structured epilepsy-related informat
 
 This repository demonstrates how a **local open-source LLM running through Ollama** can convert synthetic clinical notes into a strict JSON schema. It also includes a simple rule-based baseline for comparison and offline testing.
 
-> **Important:** The data used in this project is fully synthetic and is included only for demonstration purposes. Do not use real patient data in this repository.
+> **Important:** The data used in this project is fully synthetic and is included only for demonstration purposes.
 
 ---
 
