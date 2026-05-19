@@ -1,0 +1,148 @@
+[
+  {
+    "note_id": "N001",
+    "diagnosis": "focal epilepsy",
+    "seizure_type": "focal impaired awareness seizures",
+    "medications": [
+      "levetiracetam",
+      "lamotrigine"
+    ],
+    "treatment_response": "ongoing seizures despite treatment",
+    "comorbidities": [
+      "anxiety"
+    ],
+    "investigations": [
+      "EEG",
+      "MRI"
+    ],
+    "clinical_outcome": "persistent seizures",
+    "evidence_quote": "The patient has tried levetiracetam and lamotrigine but continues to report monthly seizures.",
+    "confidence": "high"
+  },
+  {
+    "note_id": "N002",
+    "diagnosis": "generalised epilepsy",
+    "seizure_type": "generalised seizures",
+    "medications": [
+      "valproate"
+    ],
+    "treatment_response": "controlled on treatment",
+    "comorbidities": [],
+    "investigations": [
+      "EEG"
+    ],
+    "clinical_outcome": "seizure-free or controlled",
+    "evidence_quote": "Seizures are currently controlled on valproate with no events reported for 18 months.",
+    "confidence": "high"
+  },
+  {
+    "note_id": "N003",
+    "diagnosis": "temporal lobe epilepsy",
+    "seizure_type": "focal impaired awareness seizures",
+    "medications": [
+      "levetiracetam",
+      "carbamazepine",
+      "lacosamide"
+    ],
+    "treatment_response": "drug-resistant or persistent seizures despite treatment",
+    "comorbidities": [
+      "depression"
+    ],
+    "investigations": [
+      "MRI"
+    ],
+    "clinical_outcome": "persistent seizures",
+    "evidence_quote": "Seizures persist despite multiple anti-seizure medications, suggesting drug-resistant epilepsy.",
+    "confidence": "high"
+  },
+  {
+    "note_id": "N004",
+    "diagnosis": "functional non-epileptic seizures",
+    "seizure_type": "functional non-epileptic seizures",
+    "medications": [],
+    "treatment_response": "unclear",
+    "comorbidities": [
+      "anxiety"
+    ],
+    "investigations": [
+      "video-EEG"
+    ],
+    "clinical_outcome": "unclear",
+    "evidence_quote": "Episodes were captured on video-EEG without epileptiform correlate. The final diagnosis was functional non-epileptic seizures.",
+    "confidence": "high"
+  },
+  {
+    "note_id": "N005",
+    "diagnosis": "focal epilepsy",
+    "seizure_type": "focal seizures",
+    "medications": [
+      "lamotrigine"
+    ],
+    "treatment_response": "controlled on treatment",
+    "comorbidities": [
+      "migraine"
+    ],
+    "investigations": [
+      "EEG"
+    ],
+    "clinical_outcome": "reduced seizure frequency",
+    "evidence_quote": "Seizure frequency has reduced from weekly to one episode every six months.",
+    "confidence": "high"
+  },
+  {
+    "note_id": "N006",
+    "diagnosis": "epilepsy",
+    "seizure_type": "nocturnal seizures",
+    "medications": [
+      "levetiracetam",
+      "clobazam",
+      "topiramate"
+    ],
+    "treatment_response": "ongoing seizures despite treatment",
+    "comorbidities": [
+      "sleep disturbance"
+    ],
+    "investigations": [
+      "ECG"
+    ],
+    "clinical_outcome": "persistent seizures",
+    "evidence_quote": "Patient with epilepsy following traumatic brain injury. Current medications include levetiracetam, clobazam and topiramate. Ongoing nocturnal seizures are reported. ECG was normal. Sleep disturbance is also described.",
+    "confidence": "high"
+  },
+  {
+    "note_id": "N007",
+    "diagnosis": "generalised epilepsy",
+    "seizure_type": "generalised seizures",
+    "medications": [
+      "lamotrigine",
+      "ethosuximide"
+    ],
+    "treatment_response": "controlled on treatment",
+    "comorbidities": [],
+    "investigations": [
+      "EEG"
+    ],
+    "clinical_outcome": "seizure-free or controlled",
+    "evidence_quote": "No seizures have been reported for two years.",
+    "confidence": "high"
+  },
+  {
+    "note_id": "N008",
+    "diagnosis": "focal epilepsy",
+    "seizure_type": "focal seizures",
+    "medications": [
+      "levetiracetam",
+      "oxcarbazepine"
+    ],
+    "treatment_response": "drug-resistant or persistent seizures despite treatment",
+    "comorbidities": [
+      "memory complaints"
+    ],
+    "investigations": [
+      "video-EEG"
+    ],
+    "clinical_outcome": "persistent seizures",
+    "evidence_quote": "Video-EEG confirmed epileptic seizures.",
+    "confidence": "high"
+  }
+]
